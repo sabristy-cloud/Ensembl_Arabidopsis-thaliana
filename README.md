@@ -33,7 +33,7 @@ This repository contains the genome and annotation files for Arabidopsis thalian
 Source:** 
 [Ensembl Plants - Arabidopsis thaliana](https://plants.ensembl.org/Arabidopsis_thaliana/Info/Index)
 
-# In GitHub Desktop
+### In GitHub Desktop
 1. Click "Current Branch" → "New Branch" → name it update-readme
 2. Make changes (edit README.md)
 3. Commit to update-readme branch
